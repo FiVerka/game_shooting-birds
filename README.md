@@ -1,5 +1,5 @@
 # game_shooting-birds
-My own version of the game of shooting birds
+My own version of the game of shooting birds. This is my final project of PyLadies course.
 
 **player's mission:**
 - shoot down as many light birds as possible in one minute <br />
